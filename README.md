@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="picture/titulación.jpeg" width="240" style="border-radius: 50%;" alt="Jocelyn Matus Ancavil"/>
+<div align="center"><img src="picture/titulación2.jpg" width="240" style="border-radius: 50%;" alt="Jocelyn Matus Ancavil"/>
   
 # Hola, soy Jocelyn Matus Ancavil 
 
