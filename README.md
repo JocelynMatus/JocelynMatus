@@ -1,5 +1,6 @@
 
-<div align="center"> <img src="picture/titulación.jpeg" width="160" style="border-radius: 50%;" alt="Jocelyn Matus Ancavil"/>
+<div align="center"> <img src="picture/titulación.jpeg" width="240" style="border-radius: 50%;" alt="Jocelyn Matus Ancavil"/>
+  
 # Hola, soy Jocelyn Matus Ancavil 
 
 ### Ingeniera Civil Electrónica | Electronic Engineer | ML/DL projects in Python | MSc Computer Science candidate | Open to work <img src="picture/open_to_work.jpg" width="24" valign="middle" alt="#OpenToWork"/> | Investigadora en Energía y Control Inteligente
@@ -33,7 +34,7 @@ Comparación de arquitecturas RL-PID y RL-MPC (entrenadas con **PPO, DDPG y TD3*
 ---
 
 ## Experiencia destacada
-- **Consultora Técnica — SMEC:** levantamiento de arquitectura del sistema DCS ABB, planes de mantenimiento (RCM) y dashboards interactivos en Power BI para ENAP.
+- **Consultora Técnica — SMEC:** levantamiento de arquitectura del sistema DCS ABB, pauta, planes de mantenimiento (RCM) y balance de cargas para BHP y dashboards interactivos en Power BI para ENAP.
 - **Ingeniera Informática Trainee — Entix:** Data Engineering y Data Analytics con PowerCenter, SQL y Power BI.
 - **Ingeniería inversa aplicada:** mantenimiento predictivo de máquinas industriales (reducción de costos y tiempos de parada) y **análisis forense de dispositivos skimmer** detectados en cajeros automáticos — reconstrucción de esquemáticos y evaluación de patrones de producción para apoyar su prevención.
 - **Docencia:** clases particulares y clases prácticas universitarias en matemática, programación, electrotecnia y sistemas de control.
