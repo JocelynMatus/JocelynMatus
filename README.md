@@ -1,5 +1,3 @@
-<div align="center">
-<img src="assets/profile.jpg" width="160" style="border-radius: 50%;" alt="Jocelyn Matus Ancavil"/>
   
 # Hola, soy Jocelyn Matus Ancavil 
 
