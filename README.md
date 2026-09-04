@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="picture/titulacion.jpg" width="160" style="border-radius: 50%;" alt="Jocelyn Matus Ancavil"/>
+<div align="center"> <img src="picture/titulación.jpg" width="160" style="border-radius: 50%;" alt="Jocelyn Matus Ancavil"/>
 # Hola, soy Jocelyn Matus Ancavil 
 
 ### Ingeniera Civil Electrónica | Electronic Engineer | ML/DL projects in Python | MSc Computer Science candidate | Open to work <img src="picture/open_to_work.jpg" width="24" valign="middle" alt="#OpenToWork"/> | Investigadora en Energía y Control Inteligente
