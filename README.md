@@ -15,27 +15,32 @@
 Ingeniera Civil Electrónica (Universidad de Concepción, 2018–2024) con formación en programación, estadística y sistemas expertos. He desarrollado soluciones de análisis de datos y dashboards en **Power BI + SQL**, y proyectos de **redes neuronales, PCA y Fuzzy Logic** orientados a modelamiento predictivo.
 
 Tengo un perfil **versátil y multidisciplinario**: me muevo con comodidad entre ingeniería eléctrica/control, ciencia de datos, machine learning y análisis forense de hardware. Soy autodidacta, sociable y me adapto rápido a problemas nuevos.
-
 Actualmente busco seguir creciendo en **machine learning, NLP, MLOps y automatización aplicada a auditorías basadas en datos**.
+
 ---
+
 ## 🔬 Líneas de investigación
 
-**Sistemas híbridos de energía renovable con celdas de combustible (MCFC)**
+**⚡ Sistemas híbridos de energía renovable con celdas de combustible (MCFC)**
 Diseño y optimización de un sistema híbrido eólico-solar-MCFC alimentado con biogás, orientado a cogeneración de alta eficiencia y valorización del metano antropogénico en Chile. Modelamiento electroquímico de la celda, diseño conceptual del stack y optimización multiobjetivo mediante **algoritmo genético**.
 📄 *Paper enviado a IEEE.*
 
-**Control resiliente con Reinforcement Learning para sistemas ciber-físicos**
+**🤖 Control resiliente con Reinforcement Learning para sistemas ciber-físicos**
 Comparación de arquitecturas RL-PID y RL-MPC (entrenadas con **PPO, DDPG y TD3**) para procesos industriales sometidos a ciberataques (DoS y False Data Injection), con garantías formales de estabilidad (criterio de consistencia de Lyapunov, conjuntos UUB).
 📄 *Paper en desarrollo.*
+
 ---
-## Experiencia destacada
-- **Consultora Técnica — SMEC:** levantamiento de arquitectura del sistema DCS ABB, pauta, planes de mantenimiento (RCM) y balance de cargas para BHP y dashboards interactivos en Power BI para ENAP.
+
+## 💼 Experiencia destacada
+
+- **Consultora Técnica — SMEC:** levantamiento de arquitectura del sistema DCS ABB, pautas-planes de mantenimiento (RCM) y balance de cargas para BHP y dashboards interactivos en Power BI para ENAP.
 - **Ingeniera Informática Trainee — Entix:** Data Engineering y Data Analytics con PowerCenter, SQL y Power BI.
 - **Ingeniería inversa aplicada:** mantenimiento predictivo de máquinas industriales (reducción de costos y tiempos de parada) y **análisis forense de dispositivos skimmer** detectados en cajeros automáticos — reconstrucción de esquemáticos y evaluación de patrones de producción para apoyar su prevención.
 - **Docencia:** clases particulares y clases prácticas universitarias en matemática, programación, electrotecnia y sistemas de control.
+
 ---
 
-## Habilidades técnicas
+## 🛠️ Habilidades técnicas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -46,8 +51,9 @@ Comparación de arquitecturas RL-PID y RL-MPC (entrenadas con **PPO, DDPG y TD3*
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 
-**Machine Learning & Data:** Redes neuronales · Fuzzy Logic · PCA · Reinforcement Learning · Estadística · Sistemas expertos
+**Machine Learning & Data:** Redes neuronales · Fuzzy Logic · PCA · Reinforcement Learning · Data Analysis · Data Engineering · Estadística · Sistemas expertos
 **Control & Hardware:** RSLogix · HMI · Electrotecnia · Diseño de PCB · Ingeniería inversa
+
 ---
 ## Actualmente aprendiendo / certificándome en
 
@@ -67,15 +73,20 @@ Comparación de arquitecturas RL-PID y RL-MPC (entrenadas con **PPO, DDPG y TD3*
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+
 ![Jocelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JocelynMatus&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JocelynMatus&layout=compact&hide_border=true)
+
 </div>
+
 ---
+
 <div align="center">
 
 📫 **Contacto:** [Jocelyn.matus.ice@gmail.com](mailto:Jocelyn.matus.ice@gmail.com) · [LinkedIn](https://linkedin.com/in/jocelyn-alejandra-matus-ancavil)
 
 </div>
+
