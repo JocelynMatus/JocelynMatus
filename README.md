@@ -35,7 +35,7 @@ Comparación de arquitecturas RL-PID y RL-MPC (entrenadas con **PPO, DDPG y TD3*
 
 - **Consultora Técnica — SMEC:** levantamiento de arquitectura del sistema DCS ABB, pautas-planes de mantenimiento (RCM) y balance de cargas para BHP y dashboards interactivos en Power BI para ENAP.
 - **Ingeniera Informática Trainee — Entix:** Data Engineering y Data Analytics con PowerCenter, SQL y Power BI.
-- **Ingeniería inversa aplicada:** mantenimiento predictivo de máquinas industriales (reducción de costos y tiempos de parada) y **análisis forense de dispositivos skimmer** detectados en cajeros automáticos — reconstrucción de esquemáticos y evaluación de patrones de producción para apoyar su prevención.
+- **Ingeniería inversa aplicada:** mantenimiento predictivo de máquinas industriales (reducción de costos y tiempos de parada) y **análisis forense de dispositivos skimmer** — reconstrucción de esquemáticos y evaluación de patrones de producción para apoyar su prevención.
 - **Docencia:** clases particulares y clases prácticas universitarias en matemática, programación, electrotecnia y sistemas de control.
 
 ---
